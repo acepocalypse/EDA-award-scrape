@@ -1,4 +1,4 @@
-# Academic Awards Scraper
+# Academic Awards Scraper (This is all just a test placeholder)
 
 This repository contains Python scripts for scraping data from websites of highly prestigious and prestigious academic awards. The goal is to collect information about award recipients, categories, and other relevant details.
 
