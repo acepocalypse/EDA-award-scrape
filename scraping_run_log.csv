@@ -1,0 +1,605 @@
+Award_ID,Function_Name,Status,Start_Time,Duration_Seconds,Error_Message
+101,scrape101,Success,2026-02-05 13:43:00.413716,2155.718251,
+1123,scrape1123,Success,2026-02-05 14:18:56.161680,5.327054,
+1151,scrape1151,Success,2026-02-05 14:19:01.518391,0.324571,
+1182,scrape1182,Failure,2026-02-05 14:19:01.869588,15.248116,"PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED."
+1186,scrape1186,Failure,2026-02-05 14:19:17.142569,18.606662,"PyAutoGUI fail-safe triggered from mouse moving to a corner of the screen. To disable this fail-safe, set pyautogui.FAILSAFE to False. DISABLING FAIL-SAFE IS NOT RECOMMENDED."
+1194,scrape1194,Success,2026-02-05 14:19:35.773674,8.264334,
+1234,scrape1234,Failure,2026-02-05 14:19:44.064314,7.473244,"Message: no such element: Unable to locate element: {""method"":""css selector"",""selector"":"".past-award-winners""}
+  (Session info: chrome=144.0.7559.110); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7e1eef3d5
+	0x7ff7e1eef430
+	0x7ff7e1c910bd
+	0x7ff7e1cec2fe
+	0x7ff7e1cec60c
+	0x7ff7e1d3d187
+	0x7ff7e1d39d08
+	0x7ff7e1cdcb0c
+	0x7ff7e1cdda53
+	0x7ff7e21cb470
+	0x7ff7e21c586d
+	0x7ff7e21e621a
+	0x7ff7e1f0b235
+	0x7ff7e1f13a5c
+	0x7ff7e1ef8844
+	0x7ff7e1ef89f6
+	0x7ff7e1edeb87
+	0x7ff825e3e8d7
+	0x7ff8269ec53c
+"
+1393,scrape1393,Success,2026-02-05 14:19:51.567945,0.574994,
+1428,scrape1428,Success,2026-02-05 14:19:52.171839,0.901138,
+1429,scrape1429,Success,2026-02-05 14:19:53.096710,0.857233,
+1437,scrape1437,Success,2026-02-05 14:19:53.986386,0.836193,
+1438,scrape1438,Success,2026-02-05 14:19:54.852379,0.873174,
+147,scrape147,Success,2026-02-05 14:19:55.750999,2.45807,
+152,scrape152,Success,2026-02-05 14:19:58.232602,0.920509,
+1606,scrape1606,Success,2026-02-05 14:19:59.178628,16.185847,
+1607,scrape1607,Success,2026-02-05 14:20:15.402219,15.553236,
+1628,scrape1628,Success,2026-02-05 14:20:31.075743,0.708507,
+1750,scrape1750,Success,2026-02-05 14:20:31.809038,111.904984,
+1758,scrape1758,Success,2026-02-05 14:22:23.751557,12.705824,
+1776,scrape1776,Success,2026-02-05 14:22:36.491630,6.52482,
+1809,scrape1809,Success,2026-02-05 14:22:43.043284,15320.167405,
+1888,scrape1888,Failure,2026-02-05 18:38:03.245781,304.587292,"Message: timeout: Timed out receiving message from renderer: 297.419
+  (Session info: chrome=144.0.7559.133)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7e1eef3d5
+	0x7ff7e1eef430
+	0x7ff7e1c910bd
+	0x7ff7e1c7dda9
+	0x7ff7e1c7da91
+	0x7ff7e1c7b6c1
+	0x7ff7e1c7bfff
+	0x7ff7e1c8b45a
+	0x7ff7e1ca2377
+	0x7ff7e1ca9a7a
+	0x7ff7e1c7c7c1
+	0x7ff7e1ca20a4
+	0x7ff7e1d3a082
+	0x7ff7e1cdcb0c
+	0x7ff7e1cdda53
+	0x7ff7e21cb470
+	0x7ff7e21c586d
+	0x7ff7e21e621a
+	0x7ff7e1f0b235
+	0x7ff7e1f13a5c
+	0x7ff7e1ef8844
+	0x7ff7e1ef89f6
+	0x7ff7e1edeb87
+	0x7ff825e3e8d7
+	0x7ff8269ec53c
+"
+1909,scrape1909,Failure,2026-02-05 18:43:07.871552,302.55147,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=144.0.7559.133); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7e1eef3d5
+	0x7ff7e1eef430
+	0x7ff7e1c910bd
+	0x7ff7e1c99021
+	0x7ff7e1c9c4de
+	0x7ff7e1d3b0ed
+	0x7ff7e1d1589a
+	0x7ff7e1d39d08
+	0x7ff7e1cdcb0c
+	0x7ff7e1cdda53
+	0x7ff7e21cb470
+	0x7ff7e21c586d
+	0x7ff7e21e621a
+	0x7ff7e1f0b235
+	0x7ff7e1f13a5c
+	0x7ff7e1ef8844
+	0x7ff7e1ef89f6
+	0x7ff7e1edeb87
+	0x7ff825e3e8d7
+	0x7ff8269ec53c
+"
+1920,scrape1920,Success,2026-02-05 18:48:10.452264,1.332277,
+1932,scrape1932,Success,2026-02-05 18:48:11.809116,24.245093,
+1933,scrape1933,Success,2026-02-05 18:48:36.081264,78.341578,
+1934,scrape1934,Success,2026-02-05 18:49:54.457450,70.764582,
+1935,scrape1935,Success,2026-02-05 18:51:05.259340,55.435308,
+1940,scrape1940,Success,2026-02-05 18:52:00.733442,12.980733,
+1972,scrape1972,Success,2026-02-05 18:52:13.756552,0.693433,
+1977,scrape1977,Success,2026-02-05 18:52:14.476606,0.549373,
+1984,scrape1984,Success,2026-02-05 18:52:15.056378,0.868787,
+2003,scrape2003,Success,2026-02-05 18:52:15.983814,27.418101,
+2004,scrape2004,Success,2026-02-05 18:52:43.452440,11.401707,
+2005,scrape2005,Success,2026-02-05 18:52:54.888321,34.605784,
+2006,scrape2006,Success,2026-02-05 18:53:29.532084,18.74102,
+2007,scrape2007,Success,2026-02-05 18:53:48.313247,1.128997,
+2008,scrape2008,Success,2026-02-05 18:53:49.474712,0.935335,
+2009,scrape2009,Success,2026-02-05 18:53:50.446405,0.346851,
+2010,scrape2010,Success,2026-02-05 18:53:50.819457,0.885161,
+2012,scrape2012,Success,2026-02-05 18:53:51.731824,0.887784,
+2014,scrape2014,Success,2026-02-05 18:53:52.676536,0.330387,
+2015,scrape2015,Success,2026-02-05 18:53:53.040750,9.400762,
+2017,scrape2017,Success,2026-02-05 18:54:02.479095,0.317862,
+2018,scrape2018,Success,2026-02-05 18:54:02.844456,0.969725,
+2019,scrape2019,Success,2026-02-05 18:54:03.846088,0.331955,
+2020,scrape2020,Success,2026-02-05 18:54:04.207029,0.88036,
+2021,scrape2021,Success,2026-02-05 18:54:05.135390,0.352204,
+2022,scrape2022,Success,2026-02-05 18:54:05.514654,0.319981,
+2023,scrape2023,Success,2026-02-05 18:54:05.863136,1325.453265,
+2025,scrape2025,Success,2026-02-05 19:16:11.351351,0.944217,
+2026,scrape2026,Success,2026-02-05 19:16:12.329604,0.0,
+2027,scrape2027,Success,2026-02-05 19:16:12.355107,0.901434,
+2028,scrape2028,Success,2026-02-05 19:16:13.292012,0.914554,
+2029,scrape2029,Success,2026-02-05 19:16:14.235931,10.292838,
+203,scrape203,Success,2026-02-05 19:16:24.640297,0.887617,
+2030,scrape2030,Success,2026-02-05 19:16:25.552632,0.0,
+2031,scrape2031,Success,2026-02-05 19:16:25.576717,0.862796,
+2032,scrape2032,Success,2026-02-05 19:16:26.489383,0.384644,
+2033,scrape2033,Success,2026-02-05 19:16:26.907190,0.912851,
+2034,scrape2034,Success,2026-02-05 19:16:27.845236,0.326126,
+2035,scrape2035,Success,2026-02-05 19:16:28.201038,0.333469,
+2036,scrape2036,Success,2026-02-05 19:16:28.560606,0.953058,
+2037,scrape2037,Success,2026-02-05 19:16:29.559823,0.370591,
+2092,scrape2092,Success,2026-02-05 19:16:29.956521,2483.823824,
+2094,scrape2094,Success,2026-02-05 19:57:53.815332,1515.080914,
+2095,scrape2095,Success,2026-02-05 20:23:08.935984,1699.166248,
+2096,scrape2096,Success,2026-02-05 20:51:28.136244,726.568196,
+2129,scrape2129,Success,2026-02-05 21:03:34.735142,44.024778,
+2134,scrape2134,Success,2026-02-05 21:04:18.797711,28.031004,
+2138,scrape2138,Success,2026-02-05 21:04:46.926973,43.251304,
+2157,scrape2157,Success,2026-02-05 21:05:30.214280,1.531908,
+21775,scrape21775,Success,2026-02-05 21:05:31.777194,25.8966,
+21776,scrape21776,Success,2026-02-05 21:05:57.725708,49.525276,
+2230,scrape2230,Success,2026-02-05 21:06:47.283907,62.058365,
+2231,scrape2231,Success,2026-02-05 21:07:49.374863,60.581172,
+2232,scrape2232,Success,2026-02-05 21:08:49.996282,61.31163,
+2233,scrape2233,Success,2026-02-05 21:09:51.340466,62.254839,
+2234,scrape2234,Success,2026-02-05 21:10:53.629724,61.4225,
+2235,scrape2235,Success,2026-02-05 21:11:55.089273,61.82581,
+2270,scrape2270,Failure,2026-02-05 21:12:56.948026,21.883122,"Message: 
+"
+2274,scrape2274,Failure,2026-02-05 21:13:18.863835,20.036676,"Message: 
+"
+2313,scrape2313,Success,2026-02-05 21:13:38.932786,19.216693,
+2466,scrape2466,Success,2026-02-05 21:13:58.178169,202.884203,
+2467,scrape2467,Success,2026-02-05 21:17:21.094234,1.233032,
+2545,scrape2545,Success,2026-02-05 21:17:22.354271,13.39056,
+2561,scrape2561,Success,2026-02-05 21:17:35.786311,8.610765,
+2565,scrape2565,Success,2026-02-05 21:17:44.425100,0.321808,
+2662,scrape2662,Success,2026-02-05 21:17:44.789272,25.163039,
+2708,scrape2708,Success,2026-02-05 21:18:09.993463,646.037709,
+2768,scrape2768,Success,2026-02-05 21:28:56.066690,423.495151,
+2769,scrape2769,Success,2026-02-05 21:35:59.601181,102.367708,
+2770,scrape2770,Success,2026-02-05 21:37:42.010048,0.471243,
+2771,scrape2771,Success,2026-02-05 21:37:42.505955,0.339949,
+2775,scrape2775,Success,2026-02-05 21:37:42.874785,8.443417,
+2778,scrape2778,Success,2026-02-05 21:37:51.349302,2.46284,
+2835,scrape2835,Success,2026-02-05 21:37:53.868409,9.590449,
+2853,scrape2853,Success,2026-02-05 21:38:03.490465,11.419618,
+2860,scrape2860,Success,2026-02-05 21:38:14.948127,84.050122,
+2873,scrape2873,Success,2026-02-05 21:39:39.036025,34.870876,
+2875,scrape2875,Success,2026-02-05 21:40:13.941023,3.430701,
+2878,scrape2878,Failure,2026-02-05 21:40:17.402462,1.438118,'NoneType' object has no attribute 'text'
+2879,scrape2879,Success,2026-02-05 21:40:18.869173,60.150884,
+2890,scrape2890,Success,2026-02-05 21:41:19.058916,0.821644,
+2891,scrape2891,Success,2026-02-05 21:41:19.906723,37.396329,
+2892,scrape2892,Success,2026-02-05 21:41:57.340367,33.888299,
+2893,scrape2893,Success,2026-02-05 21:42:31.270241,34.408891,
+2937,scrape2937,Success,2026-02-05 21:43:05.721091,0.514413,
+2942,scrape2942,Success,2026-02-05 21:43:06.263565,0.494963,
+2956,scrape2956,Success,2026-02-05 21:43:06.786653,0.71347,
+2959,scrape2959,Success,2026-02-05 21:43:07.534555,49.207568,
+2973,scrape2973,Success,2026-02-05 21:43:56.776697,1.74465,
+2980,scrape2980,Failure,2026-02-05 21:43:58.565737,6.012792,"Message: session not created: cannot connect to chrome at 127.0.0.1:63177
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x76f393
+	0x76f3d4
+	0x562090
+	0x59d732
+	0x59c76c
+	0x592845
+	0x592666
+	0x5dae7f
+	0x5da697
+	0x5cebb6
+	0x5a0319
+	0x5a10d4
+	0x9c3de4
+	0x9bf0e9
+	0x9dc080
+	0x7880a8
+	0x78fdfd
+	0x777bc8
+	0x777d92
+	0x76189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+2981,scrape2981,Success,2026-02-05 21:44:04.607999,6.068297,
+2982,scrape2982,Failure,2026-02-05 21:44:10.709282,1.017154,'NoneType' object has no attribute 'find_next'
+2985,scrape2985,Failure,2026-02-05 21:44:11.753103,2.611055,"Message: session not created: cannot connect to chrome at 127.0.0.1:63369
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 144.0.7559.133
+Stacktrace:
+	GetHandleVerifier [0x0x583b03+62899]
+	GetHandleVerifier [0x0x583b44+62964]
+	(No symbol) [0x0x3b10f3]
+	(No symbol) [0x0x3ead9b]
+	(No symbol) [0x0x3e9db9]
+	(No symbol) [0x0x3e04cf]
+	(No symbol) [0x0x3e0306]
+	(No symbol) [0x0x42a36a]
+	(No symbol) [0x0x429c0a]
+	(No symbol) [0x0x41e306]
+	(No symbol) [0x0x3ed670]
+	(No symbol) [0x0x3ee4e4]
+	GetHandleVerifier [0x0x7e4793+2556483]
+	GetHandleVerifier [0x0x7dfd02+2537394]
+	GetHandleVerifier [0x0x5aa2fa+220586]
+	GetHandleVerifier [0x0x59aae8+157080]
+	GetHandleVerifier [0x0x5a141d+184013]
+	GetHandleVerifier [0x0x58ba68+95512]
+	GetHandleVerifier [0x0x58bc10+95936]
+	GetHandleVerifier [0x0x576b5a+9738]
+	BaseThreadInitThunk [0x0x765a5d49+25]
+	RtlInitializeExceptionChain [0x0x7755d5db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7755d561+561]
+"
+2988,scrape2988,Success,2026-02-05 21:44:14.393164,75.024175,
+3000,scrape3000,Failure,2026-02-05 21:45:29.458371,3.736285,"Message: session not created: cannot connect to chrome at 127.0.0.1:52561
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x2ff393
+	0x2ff3d4
+	0xf2090
+	0x12d732
+	0x12c76c
+	0x122845
+	0x122666
+	0x16ae7f
+	0x16a697
+	0x15ebb6
+	0x130319
+	0x1310d4
+	0x553de4
+	0x54f0e9
+	0x56c080
+	0x3180a8
+	0x31fdfd
+	0x307bc8
+	0x307d92
+	0x2f189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+	(nil)
+"
+3001,scrape3001,Failure,2026-02-05 21:45:33.223733,4.865053,"Message: session not created: cannot connect to chrome at 127.0.0.1:65007
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x58f393
+	0x58f3d4
+	0x382090
+	0x3bd732
+	0x3bc76c
+	0x3b2845
+	0x3b2666
+	0x3fae7f
+	0x3fa697
+	0x3eebb6
+	0x3c0319
+	0x3c10d4
+	0x7e3de4
+	0x7df0e9
+	0x7fc080
+	0x5a80a8
+	0x5afdfd
+	0x597bc8
+	0x597d92
+	0x58189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+3004,scrape3004,Success,2026-02-05 21:45:38.116547,22.846682,
+3007,scrape3007,Failure,2026-02-05 21:46:01.001657,3.647243,"Message: session not created: cannot connect to chrome at 127.0.0.1:56987
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x48f393
+	0x48f3d4
+	0x282090
+	0x2bd732
+	0x2bc76c
+	0x2b2845
+	0x2b2666
+	0x2fae7f
+	0x2fa697
+	0x2eebb6
+	0x2c0319
+	0x2c10d4
+	0x6e3de4
+	0x6df0e9
+	0x6fc080
+	0x4a80a8
+	0x4afdfd
+	0x497bc8
+	0x497d92
+	0x48189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+3008,scrape3008,Success,2026-02-05 21:46:04.676724,10108.66821,
+3009,scrape3009,Success,2026-02-06 00:34:33.377017,61.066899,
+3010,scrape3010,Failure,2026-02-06 00:35:34.506462,6.330036,"Message: session not created: cannot connect to chrome at 127.0.0.1:51036
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xf4f393
+	0xf4f3d4
+	0xd42090
+	0xd7d732
+	0xd7c76c
+	0xd72845
+	0xd72666
+	0xdbae7f
+	0xdba697
+	0xdaebb6
+	0xd80319
+	0xd810d4
+	0x11a3de4
+	0x119f0e9
+	0x11bc080
+	0xf680a8
+	0xf6fdfd
+	0xf57bc8
+	0xf57d92
+	0xf4189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+3011,scrape3011,Failure,2026-02-06 00:35:40.862637,5.10371,"Message: session not created: cannot connect to chrome at 127.0.0.1:56002
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x39f393
+	0x39f3d4
+	0x192090
+	0x1cd732
+	0x1cc76c
+	0x1c2845
+	0x1c2666
+	0x20ae7f
+	0x20a697
+	0x1febb6
+	0x1d0319
+	0x1d10d4
+	0x5f3de4
+	0x5ef0e9
+	0x60c080
+	0x3b80a8
+	0x3bfdfd
+	0x3a7bc8
+	0x3a7d92
+	0x39189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+	(nil)
+"
+3015,scrape3015,Success,2026-02-06 00:35:45.994726,0.615692,
+3016,scrape3016,Success,2026-02-06 00:35:46.638789,0.280545,
+3024,scrape3024,Success,2026-02-06 00:35:46.946343,0.363765,
+3028,scrape3028,Success,2026-02-06 00:35:47.337979,0.0,
+3056,scrape3056,Success,2026-02-06 00:35:47.369548,19.886924,
+3064,scrape3064,Failure,2026-02-06 00:36:07.297776,1.633954,"Message: session not created: cannot connect to chrome at 127.0.0.1:54743
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 144.0.7559.133
+Stacktrace:
+	GetHandleVerifier [0x0xb13b03+62899]
+	GetHandleVerifier [0x0xb13b44+62964]
+	(No symbol) [0x0x9410f3]
+	(No symbol) [0x0x97ad9b]
+	(No symbol) [0x0x979db9]
+	(No symbol) [0x0x9704cf]
+	(No symbol) [0x0x970306]
+	(No symbol) [0x0x9ba36a]
+	(No symbol) [0x0x9b9c0a]
+	(No symbol) [0x0x9ae306]
+	(No symbol) [0x0x97d670]
+	(No symbol) [0x0x97e4e4]
+	GetHandleVerifier [0x0xd74793+2556483]
+	GetHandleVerifier [0x0xd6fd02+2537394]
+	GetHandleVerifier [0x0xb3a2fa+220586]
+	GetHandleVerifier [0x0xb2aae8+157080]
+	GetHandleVerifier [0x0xb3141d+184013]
+	GetHandleVerifier [0x0xb1ba68+95512]
+	GetHandleVerifier [0x0xb1bc10+95936]
+	GetHandleVerifier [0x0xb06b5a+9738]
+	BaseThreadInitThunk [0x0x765a5d49+25]
+	RtlInitializeExceptionChain [0x0x7755d5db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7755d561+561]
+"
+3092,scrape3092,Success,2026-02-06 00:36:08.966520,0.835803,
+3093,scrape3093,Success,2026-02-06 00:36:09.837389,0.269183,
+3095,scrape3095,Success,2026-02-06 00:36:10.133957,0.25796,
+3096,scrape3096,Success,2026-02-06 00:36:10.422257,33.623402,
+3097,scrape3097,Success,2026-02-06 00:36:44.086997,46.59059,
+3121,scrape3121,Success,2026-02-06 00:37:30.732163,2.247285,
+3123,scrape3123,Success,2026-02-06 00:37:33.006940,2.303391,
+3174,scrape3174,Success,2026-02-06 00:37:35.338290,26.621387,
+3177,scrape3177,Success,2026-02-06 00:38:01.996916,1.952356,
+3213,scrape3213,Success,2026-02-06 00:38:03.976483,0.001,
+3233,scrape3233,Success,2026-02-06 00:38:04.002590,8.890247,
+3234,scrape3234,Success,2026-02-06 00:38:12.931637,22.847278,
+3235,scrape3235,Success,2026-02-06 00:38:35.808521,25.301494,
+3236,scrape3236,Success,2026-02-06 00:39:01.146558,26.356784,
+3238,scrape3238,Success,2026-02-06 00:39:27.538430,8.960485,
+3262,scrape3262,Success,2026-02-06 00:39:36.546244,24.042671,
+3266,scrape3266,Success,2026-02-06 00:40:00.657311,43.105605,
+3280,scrape3280,Success,2026-02-06 00:40:43.798954,49.550988,
+3281,scrape3281,Success,2026-02-06 00:41:33.391534,14.462859,
+3282,scrape3282,Success,2026-02-06 00:41:47.886562,8.837622,
+3283,scrape3283,Success,2026-02-06 00:41:56.753630,162.920828,
+3304,scrape3304,Success,2026-02-06 00:44:39.708223,8.940053,
+3305,scrape3305,Success,2026-02-06 00:44:48.677295,0.328421,
+3306,scrape3306,Success,2026-02-06 00:44:49.032445,1388.654492,
+332,scrape332,Success,2026-02-06 01:07:57.721158,7.978967,
+3456,scrape3456,Failure,2026-02-06 01:08:05.739914,3.672789,"Message: session not created: cannot connect to chrome at 127.0.0.1:50638
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xfbf393
+	0xfbf3d4
+	0xdb2090
+	0xded732
+	0xdec76c
+	0xde2845
+	0xde2666
+	0xe2ae7f
+	0xe2a697
+	0xe1ebb6
+	0xdf0319
+	0xdf10d4
+	0x1213de4
+	0x120f0e9
+	0x122c080
+	0xfd80a8
+	0xfdfdfd
+	0xfc7bc8
+	0xfc7d92
+	0xfb189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+3473,scrape3473,Success,2026-02-06 01:08:09.446764,0.494011,
+3504,scrape3504,Success,2026-02-06 01:08:09.966518,1.302074,
+3533,scrape3533,Success,2026-02-06 01:08:11.303570,0.0,
+3534,scrape3534,Success,2026-02-06 01:08:11.333965,0.0,
+3594,scrape3594,Success,2026-02-06 01:08:11.365814,0.679509,
+3768,scrape3768,Success,2026-02-06 01:08:12.074702,18.627448,
+3769,scrape3769,Success,2026-02-06 01:08:30.732585,17.527123,
+404,scrape404,Success,2026-02-06 01:08:48.299335,13.85856,
+4219,scrape4219,Success,2026-02-06 01:09:02.196008,48.363191,
+441,scrape441,Failure,2026-02-06 01:09:50.601231,3.621641,"Message: session not created: cannot connect to chrome at 127.0.0.1:58199
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x68f393
+	0x68f3d4
+	0x482090
+	0x4bd732
+	0x4bc76c
+	0x4b2845
+	0x4b2666
+	0x4fae7f
+	0x4fa697
+	0x4eebb6
+	0x4c0319
+	0x4c10d4
+	0x8e3de4
+	0x8df0e9
+	0x8fc080
+	0x6a80a8
+	0x6afdfd
+	0x697bc8
+	0x697d92
+	0x68189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+479,scrape479,Failure,2026-02-06 01:09:54.252642,5.25228,"Message: session not created: cannot connect to chrome at 127.0.0.1:62960
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x4ff393
+	0x4ff3d4
+	0x2f2090
+	0x32d732
+	0x32c76c
+	0x322845
+	0x322666
+	0x36ae7f
+	0x36a697
+	0x35ebb6
+	0x330319
+	0x3310d4
+	0x753de4
+	0x74f0e9
+	0x76c080
+	0x5180a8
+	0x51fdfd
+	0x507bc8
+	0x507d92
+	0x4f189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+4891,scrape4891,Success,2026-02-06 01:09:59.540860,123.420909,
+504,scrape504,Success,2026-02-06 01:12:03.007766,5.67724,
+528,scrape528,Success,2026-02-06 01:12:08.713388,1.482958,
+593,scrape593,Success,2026-02-06 01:12:10.239039,15.377929,
+594,scrape594,Success,2026-02-06 01:12:25.657246,14.957985,
+611,scrape611,Success,2026-02-06 01:12:40.660998,14.016294,
+722,scrape722,Success,2026-02-06 01:12:54.709742,1.873304,
+809,scrape809,Success,2026-02-06 01:12:56.610175,16.029672,
+814,scrape814,Success,2026-02-06 01:13:12.678118,0.513426,
+815,scrape815,Success,2026-02-06 01:13:13.227366,0.29263,
+816,scrape816,Success,2026-02-06 01:13:13.555578,0.462542,
+817,scrape817,Success,2026-02-06 01:13:14.050274,0.570302,
+818,scrape818,Success,2026-02-06 01:13:14.648959,0.548931,
+819,scrape819,Success,2026-02-06 01:13:15.228984,17.445854,
+820,scrape820,Success,2026-02-06 01:13:32.711588,1.30987,
+821,scrape821,Success,2026-02-06 01:13:34.065196,0.604673,
+822,scrape822,Success,2026-02-06 01:13:34.702350,0.524345,
+823,scrape823,Success,2026-02-06 01:13:35.255909,0.574805,
+8258,scrape8258,Failure,2026-02-06 01:13:35.857495,5.146165,"Message: session not created: cannot connect to chrome at 127.0.0.1:51615
+from session not created: This version of ChromeDriver only supports Chrome version 145
+Current browser version is 144.0.7559.133
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0xc3f393
+	0xc3f3d4
+	0xa32090
+	0xa6d732
+	0xa6c76c
+	0xa62845
+	0xa62666
+	0xaaae7f
+	0xaaa697
+	0xa9ebb6
+	0xa70319
+	0xa710d4
+	0xe93de4
+	0xe8f0e9
+	0xeac080
+	0xc580a8
+	0xc5fdfd
+	0xc47bc8
+	0xc47d92
+	0xc3189a
+	0x765a5d49
+	0x7755d5db
+	0x7755d561
+"
+884,scrape884,Success,2026-02-06 01:13:41.033428,1.047683,
+906,scrape906,Success,2026-02-06 01:13:42.118035,0.871117,
+908,scrape908,Success,2026-02-06 01:13:43.027287,0.001001,
