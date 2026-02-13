@@ -603,3 +603,79 @@ Symbols not available. Dumping unresolved backtrace:
 884,scrape884,Success,2026-02-06 01:13:41.033428,1.047683,
 906,scrape906,Success,2026-02-06 01:13:42.118035,0.871117,
 908,scrape908,Success,2026-02-06 01:13:43.027287,0.001001,
+2270,scrape2270,Success,2026-02-12 12:45:28.859893,61.550361,
+2274,scrape2274,Success,2026-02-12 12:46:30.415252,44.859753,
+2270,scrape2270,Success,2026-02-12 12:48:06.284522,59.030273,
+2274,scrape2274,Success,2026-02-12 12:49:05.318042,47.827249,
+1182,scrape1182,Success,2026-02-12 12:53:24.323302,56.426084,
+1186,scrape1186,Success,2026-02-12 12:54:20.755469,63.115482,
+1234,scrape1234,Success,2026-02-12 12:55:23.875880,68.681644,
+1888,scrape1888,Success,2026-02-12 12:56:32.557524,24.870171,
+1909,scrape1909,Failure,2026-02-12 12:56:57.428452,1211.636353,"Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=145.0.7632.46); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff65ed84325
+	0x7ff65ed84380
+	0x7ff65eb1d49d
+	0x7ff65eb25411
+	0x7ff65eb288ce
+	0x7ff65ebc6acd
+	0x7ff65eba17ca
+	0x7ff65ebc5728
+	0x7ff65eb68e38
+	0x7ff65eb69d23
+	0x7ff65f053090
+	0x7ff65f04d918
+	0x7ff65f06dc8a
+	0x7ff65eda06d5
+	0x7ff65eda967c
+	0x7ff65ed8d684
+	0x7ff65ed8d836
+	0x7ff65ed73347
+	0x7ff825e3e8d7
+	0x7ff8269ec53c
+"
+2270,scrape2270,Success,2026-02-12 13:17:09.067580,37.573668,
+2274,scrape2274,Success,2026-02-12 13:17:46.643696,45.683662,
+2878,scrape2878,Failure,2026-02-12 13:18:32.327358,9.86706,'NoneType' object has no attribute 'text'
+2980,scrape2980,Success,2026-02-12 13:18:42.198437,1217.121451,
+2982,scrape2982,Failure,2026-02-12 13:38:59.323396,0.760162,'NoneType' object has no attribute 'find_next'
+2985,scrape2985,Success,2026-02-12 13:39:00.085512,885.333988,
+3000,scrape3000,Success,2026-02-12 13:53:45.422242,37.411617,
+3001,scrape3001,Success,2026-02-12 13:54:22.835851,62.318525,
+3007,scrape3007,Success,2026-02-12 13:55:25.154376,318.892377,
+3010,scrape3010,Success,2026-02-12 14:00:44.049560,46.499712,
+3011,scrape3011,Success,2026-02-12 14:01:30.551828,34.666753,
+3064,scrape3064,Failure,2026-02-12 14:02:05.221582,3.887309,"Message: session not created: cannot connect to chrome at 127.0.0.1:61046
+from session not created: This version of ChromeDriver only supports Chrome version 137
+Current browser version is 145.0.7632.46
+Stacktrace:
+	GetHandleVerifier [0x0xdd3b03+62899]
+	GetHandleVerifier [0x0xdd3b44+62964]
+	(No symbol) [0x0xc010f3]
+	(No symbol) [0x0xc3ad9b]
+	(No symbol) [0x0xc39db9]
+	(No symbol) [0x0xc304cf]
+	(No symbol) [0x0xc30306]
+	(No symbol) [0x0xc7a36a]
+	(No symbol) [0x0xc79c0a]
+	(No symbol) [0x0xc6e306]
+	(No symbol) [0x0xc3d670]
+	(No symbol) [0x0xc3e4e4]
+	GetHandleVerifier [0x0x1034793+2556483]
+	GetHandleVerifier [0x0x102fd02+2537394]
+	GetHandleVerifier [0x0xdfa2fa+220586]
+	GetHandleVerifier [0x0xdeaae8+157080]
+	GetHandleVerifier [0x0xdf141d+184013]
+	GetHandleVerifier [0x0xddba68+95512]
+	GetHandleVerifier [0x0xddbc10+95936]
+	GetHandleVerifier [0x0xdc6b5a+9738]
+	BaseThreadInitThunk [0x0x765a5d49+25]
+	RtlInitializeExceptionChain [0x0x7755d5db+107]
+	RtlGetAppContainerNamedObjectPath [0x0x7755d561+561]
+"
+3456,scrape3456,Failure,2026-02-12 14:02:09.109890,8.951187,name 'csv_path' is not defined
+441,scrape441,Success,2026-02-12 14:02:18.061077,37.747075,
+479,scrape479,Success,2026-02-12 14:02:55.810385,1312.010969,
+8258,scrape8258,Success,2026-02-12 14:24:47.829589,80.515167,
